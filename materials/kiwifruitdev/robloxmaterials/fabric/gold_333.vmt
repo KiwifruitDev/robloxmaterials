@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+    $basetexture "kiwifruitdev/robloxmaterials/fabric/gold_333"
+    $bumpmap "kiwifruitdev/robloxmaterials/fabric/normal"
+    %keywords "kiwifruitdev,roblox,fabric,rblxtrans"
+    $surfaceprop "carpet"
+}

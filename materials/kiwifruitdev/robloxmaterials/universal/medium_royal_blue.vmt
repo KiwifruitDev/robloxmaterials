@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+    $basetexture "kiwifruitdev/robloxmaterials/universal/diffuse"
+    $bumpmap "kiwifruitdev/robloxmaterials/universal/normal"
+    %keywords "kiwifruitdev,roblox,universal"
+    $surfaceprop "concrete"
+    $color "{ 108 129 183 }"
+}

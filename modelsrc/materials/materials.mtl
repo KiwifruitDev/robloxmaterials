@@ -1,0 +1,720 @@
+newmtl Smoothplastic1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.147981 0.145991 0.152005 
+
+d 1
+
+Ns 0
+
+newmtl Woodplanks1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.019047 0.0187909 0.019565 
+
+d 1
+
+Ns 61
+
+map_Ka Woodplanks1_diff.png
+map_Kd Woodplanks1_diff.png
+map_d Woodplanks1_diff.png
+
+map_Bump Woodplanks1_nmap.png
+
+map_Ns Woodplanks1_spec.png
+
+newmtl Wood1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0293031 0.0289091 0.0301 
+
+d 1
+
+Ns 22
+
+map_Ka Wood1_diff.png
+map_Kd Wood1_diff.png
+map_d Wood1_diff.png
+
+map_Bump Wood1_nmap.png
+
+map_Ns Wood1_spec.png
+
+newmtl Leather1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0395592 0.0390273 0.040635 
+
+d 1
+
+Ns 0
+
+map_Ka Leather1_diff.png
+map_Kd Leather1_diff.png
+map_d Leather1_diff.png
+
+map_Bump Leather1_nmap.png
+
+map_Ns Leather1_spec.png
+
+newmtl Neon1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0336986 0.0332455 0.034615 
+
+d 1
+
+Ns 0
+
+newmtl Snow1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0351638 0.0346909 0.03612 
+
+d 1
+
+Ns 0
+
+map_Ka Snow1_diff.png
+map_Kd Snow1_diff.png
+map_d Snow1_diff.png
+
+map_Bump Snow1_nmap.png
+
+map_Ns Snow1_spec.png
+
+newmtl Slate1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.027838 0.0274636 0.028595 
+
+d 1
+
+Ns 0
+
+map_Ka Slate1_diff.png
+map_Kd Slate1_diff.png
+map_d Slate1_diff.png
+
+map_Bump Slate1_nmap.png
+
+map_Ns Slate1_spec.png
+
+newmtl Cobblestone1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0336986 0.0332455 0.034615 
+
+d 1
+
+Ns 0
+
+map_Ka Cobblestone1_diff.png
+map_Kd Cobblestone1_diff.png
+map_d Cobblestone1_diff.png
+
+map_Bump Cobblestone1_nmap.png
+
+map_Ns Cobblestone1_spec.png
+
+newmtl Fabric1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0102561 0.0101182 0.010535 
+
+d 1
+
+Ns 0
+
+map_Ka Fabric1_diff.png
+map_Kd Fabric1_diff.png
+map_d Fabric1_diff.png
+
+map_Bump Fabric1_nmap.png
+
+map_Ns Fabric1_spec.png
+
+newmtl Sand1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0293031 0.0289091 0.0301 
+
+d 1
+
+Ns 0
+
+map_Ka Sand1_diff.png
+map_Kd Sand1_diff.png
+map_d Sand1_diff.png
+
+map_Bump Sand1_nmap.png
+
+map_Ns Sand1_spec.png
+
+newmtl Sandstone1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0146516 0.0144545 0.01505 
+
+d 1
+
+Ns 0
+
+map_Ka Sandstone1_diff.png
+map_Kd Sandstone1_diff.png
+map_d Sandstone1_diff.png
+
+map_Bump Sandstone1_nmap.png
+
+map_Ns Sandstone1_spec.png
+
+newmtl Foil1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.284241 0.280418 0.29197 
+
+d 1
+
+Ns 255
+
+map_Bump Foil1_nmap.png
+
+map_Ns Foil1_spec.png
+
+newmtl Salt1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0205122 0.0202364 0.02107 
+
+d 1
+
+Ns 0
+
+map_Ka Salt1_diff.png
+map_Kd Salt1_diff.png
+map_d Salt1_diff.png
+
+map_Bump Salt1_nmap.png
+
+map_Ns Salt1_spec.png
+
+newmtl Rubber1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0249077 0.0245727 0.025585 
+
+d 1
+
+Ns 47
+
+map_Ka Rubber1_diff.png
+map_Kd Rubber1_diff.png
+map_d Rubber1_diff.png
+
+map_Bump Rubber1_nmap.png
+
+map_Ns Rubber1_spec.png
+
+newmtl Metal1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0673972 0.0664909 0.0692299 
+
+d 1
+
+Ns 202
+
+map_Ka Metal1_diff.png
+map_Kd Metal1_diff.png
+map_d Metal1_diff.png
+
+map_Bump Metal1_nmap.png
+
+map_Ns Metal1_spec.png
+
+newmtl Pavement1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0146516 0.0144545 0.01505 
+
+d 1
+
+Ns 0
+
+map_Ka Pavement1_diff.png
+map_Kd Pavement1_diff.png
+map_d Pavement1_diff.png
+
+map_Bump Pavement1_nmap.png
+
+map_Ns Pavement1_spec.png
+
+newmtl Roofshingles1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0131864 0.0130091 0.013545 
+
+d 1
+
+Ns 0
+
+map_Ka Roofshingles1_diff.png
+map_Kd Roofshingles1_diff.png
+map_d Roofshingles1_diff.png
+
+map_Bump Roofshingles1_nmap.png
+
+map_Ns Roofshingles1_spec.png
+
+newmtl Rock1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0175819 0.0173455 0.01806 
+
+d 1
+
+Ns 0
+
+map_Ka Rock1_diff.png
+map_Kd Rock1_diff.png
+map_d Rock1_diff.png
+
+map_Bump Rock1_nmap.png
+
+map_Ns Rock1_spec.png
+
+newmtl Plastic1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0234425 0.0231273 0.02408 
+
+d 1
+
+Ns 0
+
+newmtl Plaster1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.00879094 0.00867273 0.00902999 
+
+d 1
+
+Ns 0
+
+map_Ka Plaster1_diff.png
+map_Kd Plaster1_diff.png
+map_d Plaster1_diff.png
+
+map_Bump Plaster1_nmap.png
+
+map_Ns Plaster1_spec.png
+
+newmtl Pebble1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0234425 0.0231273 0.02408 
+
+d 1
+
+Ns 0
+
+map_Ka Pebble1_diff.png
+map_Kd Pebble1_diff.png
+map_d Pebble1_diff.png
+
+map_Bump Pebble1_nmap.png
+
+map_Ns Pebble1_spec.png
+
+newmtl Mud1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0293031 0.0289091 0.0301 
+
+d 1
+
+Ns 0
+
+map_Ka Mud1_diff.png
+map_Kd Mud1_diff.png
+map_d Mud1_diff.png
+
+map_Bump Mud1_nmap.png
+
+map_Ns Mud1_spec.png
+
+newmtl Marble1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0351638 0.0346909 0.03612 
+
+d 1
+
+Ns 0
+
+map_Ka Marble1_diff.png
+map_Kd Marble1_diff.png
+map_d Marble1_diff.png
+
+map_Bump Marble1_nmap.png
+
+map_Ns Marble1_spec.png
+
+newmtl Corrodedmetal1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0161167 0.0159 0.016555 
+
+d 1
+
+Ns 134
+
+map_Ka Corrodedmetal1_diff.png
+map_Kd Corrodedmetal1_diff.png
+map_d Corrodedmetal1_diff.png
+
+map_Bump Corrodedmetal1_nmap.png
+
+map_Ns Corrodedmetal1_spec.png
+
+newmtl Limestone1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.019047 0.0187909 0.019565 
+
+d 1
+
+Ns 0
+
+map_Ka Limestone1_diff.png
+map_Kd Limestone1_diff.png
+map_d Limestone1_diff.png
+
+map_Bump Limestone1_nmap.png
+
+map_Ns Limestone1_spec.png
+
+newmtl Brick1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.00879094 0.00867273 0.00902999 
+
+d 1
+
+Ns 0
+
+map_Ka Brick1_diff.png
+map_Kd Brick1_diff.png
+map_d Brick1_diff.png
+
+map_Bump Brick1_nmap.png
+
+map_Ns Brick1_spec.png
+
+newmtl Ceramictiles1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.118678 0.117082 0.121905 
+
+d 1
+
+Ns 0
+
+map_Ka Ceramictiles1_diff.png
+map_Kd Ceramictiles1_diff.png
+map_d Ceramictiles1_diff.png
+
+map_Bump Ceramictiles1_nmap.png
+
+map_Ns Ceramictiles1_spec.png
+
+newmtl Leafygrass1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0102561 0.0101182 0.010535 
+
+d 1
+
+Ns 0
+
+map_Ka Leafygrass1_diff.png
+map_Kd Leafygrass1_diff.png
+map_d Leafygrass1_diff.png
+
+map_Bump Leafygrass1_nmap.png
+
+map_Ns Leafygrass1_spec.png
+
+newmtl Ice1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.259333 0.255845 0.266385 
+
+d 1
+
+Ns 0
+
+map_Bump Ice1_nmap.png
+
+map_Ns Ice1_spec.png
+
+newmtl Ground1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0102561 0.0101182 0.010535 
+
+d 1
+
+Ns 0
+
+map_Ka Ground1_diff.png
+map_Kd Ground1_diff.png
+map_d Ground1_diff.png
+
+map_Bump Ground1_nmap.png
+
+map_Ns Ground1_spec.png
+
+newmtl Diamondplate1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0571411 0.0563727 0.058695 
+
+d 1
+
+Ns 168
+
+map_Ka Diamondplate1_diff.png
+map_Kd Diamondplate1_diff.png
+map_d Diamondplate1_diff.png
+
+map_Bump Diamondplate1_nmap.png
+
+map_Ns Diamondplate1_spec.png
+
+newmtl Grass1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0131864 0.0130091 0.013545 
+
+d 1
+
+Ns 0
+
+map_Ka Grass1_diff.png
+map_Kd Grass1_diff.png
+map_d Grass1_diff.png
+
+map_Bump Grass1_nmap.png
+
+map_Ns Grass1_spec.png
+
+newmtl Granite1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0249077 0.0245727 0.025585 
+
+d 1
+
+Ns 0
+
+map_Ka Granite1_diff.png
+map_Kd Granite1_diff.png
+map_d Granite1_diff.png
+
+map_Ns Granite1_spec.png
+
+newmtl Glass1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.373615 0.368591 0.383775 
+
+d 1
+
+Ns 0
+
+map_Ka Glass1_diff.png
+map_Kd Glass1_diff.png
+map_d Glass1_diff.png
+
+map_Bump Glass1_nmap.png
+
+map_Ns Glass1_spec.png
+
+newmtl Glacier1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0542108 0.0534818 0.055685 
+
+d 1
+
+Ns 0
+
+map_Ka Glacier1_diff.png
+map_Kd Glacier1_diff.png
+map_d Glacier1_diff.png
+
+map_Bump Glacier1_nmap.png
+
+map_Ns Glacier1_spec.png
+
+newmtl Crackedlava1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0161167 0.0159 0.016555 
+
+d 1
+
+Ns 0
+
+map_Ka Crackedlava1_diff.png
+map_Kd Crackedlava1_diff.png
+map_d Crackedlava1_diff.png
+
+map_Bump Crackedlava1_nmap.png
+
+map_Ns Crackedlava1_spec.png
+
+newmtl Concrete1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0322335 0.0318 0.03311 
+
+d 1
+
+Ns 0
+
+map_Ka Concrete1_diff.png
+map_Kd Concrete1_diff.png
+map_d Concrete1_diff.png
+
+map_Ns Concrete1_spec.png
+
+newmtl Clayrooftiles1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0307683 0.0303546 0.031605 
+
+d 1
+
+Ns 0
+
+map_Ka Clayrooftiles1_diff.png
+map_Kd Clayrooftiles1_diff.png
+map_d Clayrooftiles1_diff.png
+
+map_Bump Clayrooftiles1_nmap.png
+
+map_Ns Clayrooftiles1_spec.png
+
+newmtl Carpet1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0131864 0.0130091 0.013545 
+
+d 1
+
+Ns 0
+
+map_Ka Carpet1_diff.png
+map_Kd Carpet1_diff.png
+map_d Carpet1_diff.png
+
+map_Bump Carpet1_nmap.png
+
+map_Ns Carpet1_spec.png
+
+newmtl Cardboard1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.019047 0.0187909 0.019565 
+
+d 1
+
+Ns 0
+
+map_Ka Cardboard1_diff.png
+map_Kd Cardboard1_diff.png
+map_d Cardboard1_diff.png
+
+map_Bump Cardboard1_nmap.png
+
+map_Ns Cardboard1_spec.png
+
+newmtl Basalt1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0131864 0.0130091 0.013545 
+
+d 1
+
+Ns 0
+
+map_Ka Basalt1_diff.png
+map_Kd Basalt1_diff.png
+map_d Basalt1_diff.png
+
+map_Bump Basalt1_nmap.png
+
+map_Ns Basalt1_spec.png
+
+newmtl Asphalt1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0102561 0.0101182 0.010535 
+
+d 1
+
+Ns 0
+
+map_Ka Asphalt1_diff.png
+map_Kd Asphalt1_diff.png
+map_d Asphalt1_diff.png
+
+map_Bump Asphalt1_nmap.png
+
+map_Ns Asphalt1_spec.png
+

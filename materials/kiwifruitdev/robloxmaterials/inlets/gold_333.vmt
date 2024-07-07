@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+    $basetexture "kiwifruitdev/robloxmaterials/inlets/diffuse"
+    $bumpmap "kiwifruitdev/robloxmaterials/inlets/normal"
+    %keywords "kiwifruitdev,roblox,inlets"
+    $surfaceprop "concrete"
+    $color "{ 220 188 129 }"
+}

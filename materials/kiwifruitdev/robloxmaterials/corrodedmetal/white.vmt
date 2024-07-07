@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+    $basetexture "kiwifruitdev/robloxmaterials/corrodedmetal/white"
+    $bumpmap "kiwifruitdev/robloxmaterials/corrodedmetal/normal"
+    %keywords "kiwifruitdev,roblox,corrodedmetal,rblxtrans"
+    $surfaceprop "metalpanel"
+}

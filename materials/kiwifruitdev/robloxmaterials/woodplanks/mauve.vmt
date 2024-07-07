@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+    $basetexture "kiwifruitdev/robloxmaterials/woodplanks/mauve"
+    $bumpmap "kiwifruitdev/robloxmaterials/woodplanks/normal"
+    %keywords "kiwifruitdev,roblox,woodplanks,rblxtrans"
+    $surfaceprop "wood_plank"
+}

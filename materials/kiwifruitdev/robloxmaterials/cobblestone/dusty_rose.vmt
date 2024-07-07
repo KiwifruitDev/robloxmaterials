@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+    $basetexture "kiwifruitdev/robloxmaterials/cobblestone/dusty_rose"
+    $bumpmap "kiwifruitdev/robloxmaterials/cobblestone/normal"
+    %keywords "kiwifruitdev,roblox,cobblestone,rblxtrans"
+    $surfaceprop "concrete"
+}

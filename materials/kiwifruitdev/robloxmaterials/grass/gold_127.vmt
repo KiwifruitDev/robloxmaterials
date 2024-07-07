@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+    $basetexture "kiwifruitdev/robloxmaterials/grass/diffuse"
+    $bumpmap "kiwifruitdev/robloxmaterials/grass/normal"
+    %keywords "kiwifruitdev,roblox,grass"
+    $surfaceprop "grass"
+    $color "{ 239 184 56 }"
+}

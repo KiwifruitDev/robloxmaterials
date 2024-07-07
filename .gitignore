@@ -1,0 +1,4 @@
+__pycache__/
+*.png
+!*_diff.png
+!*_nmap.png

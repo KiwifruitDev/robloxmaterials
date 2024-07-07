@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+    $basetexture "kiwifruitdev/robloxmaterials/wood/diffuse"
+    $bumpmap "kiwifruitdev/robloxmaterials/wood/normal"
+    %keywords "kiwifruitdev,roblox,wood"
+    $surfaceprop "wood_panel"
+    $color "{ 32 58 86 }"
+}

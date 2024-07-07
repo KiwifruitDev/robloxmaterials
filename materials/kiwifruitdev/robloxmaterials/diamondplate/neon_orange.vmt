@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+    $basetexture "kiwifruitdev/robloxmaterials/plastic/diffuse"
+    $bumpmap "kiwifruitdev/robloxmaterials/diamondplate/normal"
+    %keywords "kiwifruitdev,roblox,diamondplate"
+    $surfaceprop "metalgrate"
+    $color "{ 213 115 61 }"
+}

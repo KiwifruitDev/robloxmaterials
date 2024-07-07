@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+    $basetexture "kiwifruitdev/robloxmaterials/brick/lig_yellowich_orange"
+    $bumpmap "kiwifruitdev/robloxmaterials/brick/normal"
+    %keywords "kiwifruitdev,roblox,brick,rblxtrans"
+    $surfaceprop "brick"
+}

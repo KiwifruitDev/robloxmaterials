@@ -1,0 +1,14 @@
+{
+	"title"		:	"Roblox Material Pack",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "cartoon", "build" ],
+	"ignore"	:
+	[
+		"*.pdn",
+		"*.ahk",
+		"*.py",
+        "mapsrc/*",
+        "materialsrc/*",
+        "scripts/*"
+	]
+}

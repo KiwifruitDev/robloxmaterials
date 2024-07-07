@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+    $basetexture "kiwifruitdev/robloxmaterials/marble/diffuse"
+    $bumpmap "kiwifruitdev/robloxmaterials/marble/normal"
+    %keywords "kiwifruitdev,roblox,marble"
+    $surfaceprop "porcelain"
+    $color "{ 0 0 255 }"
+}
